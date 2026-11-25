@@ -1,0 +1,13 @@
+# Obsidian 编辑器配置（用户选择不纳入版本控制）
+.obsidian/
+
+# AI 助手会话状态
+.zcode/
+
+# 视频工具临时产物
+.v2c/
+.video_agent/
+out/
+
+# macOS 系统文件
+.DS_Store
