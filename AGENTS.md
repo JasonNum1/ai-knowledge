@@ -4,16 +4,16 @@
 
 ## 分类目录与归档路由
 
-| 目录 | 归档内容 |
-|---|---|
-| `00-Roadmap/` | 学习路线规划、阶段目标、知识图谱清单 |
-| `01-Concepts/` | 单点概念解释：数学基础（线性代数/概率/微积分）、机器学习、深度学习、LLM 核心概念（token、embedding、注意力等） |
-| `02-Architecture/` | 模型与系统级架构原理：Transformer、BERT/GPT 系列、RAG 架构、Agent 架构、微调方案（LoRA 等） |
-| `03-Tools/` | 工具与框架使用：Spring AI、LangChain、Ollama、vLLM、向量数据库（Milvus/PGVector 等）、模型部署工具 |
-| `04-Projects/` | 完整实践项目：目标、方案、实施过程、结果与复盘 |
-| `05-Troubleshooting/` | 部署、推理、调参过程中遇到的具体问题与解决方案，标题体现问题现象 |
-| `06-Prompts/` | 可复用的 Prompt 模板、Prompt 工程技巧 |
-| `07-Resources/` | 外部资源索引：论文、课程、博客、视频，附链接与一句话摘要 |
+| 目录                    | 归档内容                                                                    |
+| --------------------- | ----------------------------------------------------------------------- |
+| `00-Roadmap/`         | 学习路线规划、阶段目标、知识图谱清单                                                      |
+| `01-Concepts/`        | 单点概念解释：数学基础（线性代数/概率/微积分）、机器学习、深度学习、LLM 核心概念（token、embedding、注意力等）       |
+| `02-Architecture/`    | 模型与系统级架构原理：Transformer、BERT/GPT 系列、RAG 架构、Agent 架构、微调方案（LoRA 等）         |
+| `03-Tools/`           | 工具与框架使用：Spring AI、LangChain、Ollama、vLLM、向量数据库（Milvus/PGVector 等）、模型部署工具 |
+| `04-Projects/`        | 完整实践项目：目标、方案、实施过程、结果与复盘                                                 |
+| `05-Troubleshooting/` | 部署、推理、调参过程中遇到的具体问题与解决方案，标题体现问题现象                                        |
+| `06-Prompts/`         | 可复用的 Prompt 模板、Prompt 工程技巧                                              |
+| `07-Resources/`       | 外部资源索引：论文、课程、博客、视频，附链接与一句话摘要                                            |
 
 一条知识同时涉及多个分类时，归入其主要主题所在目录，用 `[[双链]]` 关联相关笔记。
 
